@@ -37,3 +37,9 @@
   cursor: pointer;
   transition: all 0.3s;
 }
+
+@media (max-width: 601px) {
+  .ListItem__Date {
+    font-size: 18px;
+  }
+}
