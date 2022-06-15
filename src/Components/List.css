@@ -1,0 +1,15 @@
+.List {
+  width: 550px;
+  list-style: none;
+}
+
+.Default {
+  text-align: center;
+  font-size: 24px;
+}
+
+@media (max-width: 601px) {
+  .List {
+    width: 350px;
+  }
+}
