@@ -12,4 +12,8 @@
   .List {
     width: 350px;
   }
+
+  .Default {
+    font-size: 18px;
+  }
 }
